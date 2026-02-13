@@ -3,7 +3,7 @@ My Hyprland dotfiles to my own OS experience
 ## Default Components -
 * Authenticaion agent - hyprpolkitagent
 * Terminal - kitty
-* Notification deamon -
+* Notification deamon - SwayNotificationCenter
 * Application launcher - wofi
 * File manager - nautilus
 * Pipewire - pipewire
@@ -12,6 +12,9 @@ My Hyprland dotfiles to my own OS experience
 * Clipboard - wl-copy
 ## Shortcut / Keybinds -
 Open Terminal - SUPER + T 
-
+| Keybind | Action |
+|---|---|
+| SUPER + T | Open Terminal |
+| SUPER + B  | Open Browser |
 ### Packages-
 pacman -S ttf-font-awesome
