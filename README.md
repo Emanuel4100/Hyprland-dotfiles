@@ -16,10 +16,8 @@ My Hyprland dotfiles to my own OS experience
 * hyprpaper
 * hypridle
 * hyprlock
-* 
 
 ## Shortcut / Keybinds -
-Open Terminal - SUPER + T 
 | Keybind | Action |
 |---|---|
 | SUPER + T | Open Terminal |
