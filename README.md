@@ -5,7 +5,7 @@ My Hyprland dotfiles to my own OS experience
 * Authenticaion agent - hyprpolkitagent
 * Terminal - kitty
 * Notification deamon - SwayNotificationCenter
-* Application launcher - wofi
+* Application launcher - rofi
 * File manager - nautilus
 * Pipewire - pipewire
 * XDG Desktop Portal - xdg-desktop-portal-hyprland
@@ -16,6 +16,7 @@ My Hyprland dotfiles to my own OS experience
 * hyprpaper
 * hypridle
 * hyprlock
+* 
 
 ## Shortcut / Keybinds -
 Open Terminal - SUPER + T 
@@ -24,4 +25,7 @@ Open Terminal - SUPER + T
 | SUPER + T | Open Terminal |
 | SUPER + B  | Open Browser |
 ### Packages-
-pacman -S ttf-font-awesome
+|Name|command|
+|---|---|
+|awesome font|pacman -S ttf-font-awesome|
+
