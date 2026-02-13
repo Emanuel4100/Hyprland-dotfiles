@@ -12,3 +12,6 @@ My Hyprland dotfiles to my own OS experience
 * Clipboard - wl-copy
 ## Shortcut / Keybinds -
 Open Terminal - SUPER + T 
+
+### Packages-
+pacman -S ttf-font-awesome
