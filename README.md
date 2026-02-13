@@ -1,6 +1,7 @@
 # Emanuel's Hyprland dotfiles
 My Hyprland dotfiles to my own OS experience
 ## Default Components -
+### Essentials
 * Authenticaion agent - hyprpolkitagent
 * Terminal - kitty
 * Notification deamon - SwayNotificationCenter
@@ -10,6 +11,12 @@ My Hyprland dotfiles to my own OS experience
 * XDG Desktop Portal - xdg-desktop-portal-hyprland
 * Shell - fish 
 * Clipboard - wl-copy
+### Extras
+* hyprshot
+* hyprpaper
+* hypridle
+* hyprlock
+
 ## Shortcut / Keybinds -
 Open Terminal - SUPER + T 
 | Keybind | Action |
