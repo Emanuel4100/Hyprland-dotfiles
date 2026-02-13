@@ -16,12 +16,35 @@ My Hyprland dotfiles to my own OS experience
 * hyprpaper
 * hypridle
 * hyprlock
+## Apps
+### Essentials
+* Browser - Brave
+* Video Player - Gnome Video Player
+* Audio Player - b
+* Image viewer -
+* text editor -
+### Extras
+* ZapZap
+* Spotify
+* Nvim
+* Vscode
+* Insync
+* Obsidian
+* Gnome Fonts
+
+
+
+### Extras
 
 ## Shortcut / Keybinds -
 | Keybind | Action |
 |---|---|
 | SUPER + T | Open Terminal |
 | SUPER + B  | Open Browser |
+| SUPER + F  | Open Rofi |
+| SUPER + Q  | Open quit app |
+
+
 ### Packages-
 |Name|command|
 |---|---|
