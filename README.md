@@ -27,15 +27,14 @@ My Hyprland dotfiles to my own OS experience
 ### Extras
 * ZapZap
 * Spotify
-* Nvim
+* Neovim
 * Vscode
 * Insync
 * Obsidian
 * Gnome Fonts
-
-
-
-### Extras
+## Dev
+* Rustup
+* Python - numpy , matplotlib
 
 ## Shortcut / Keybinds -
 | Keybind | Action |
