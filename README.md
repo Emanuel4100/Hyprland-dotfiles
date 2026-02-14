@@ -13,6 +13,7 @@ My Hyprland dotfiles to my own OS experience
 * Clipboard - wl-copy
 ### Extras
 * hyprshot
+* waybar
 * hyprpaper
 * hypridle
 * hyprlock
