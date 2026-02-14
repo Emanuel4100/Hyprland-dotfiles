@@ -43,7 +43,9 @@ My Hyprland dotfiles to my own OS experience
 | SUPER + T | Open Terminal |
 | SUPER + B  | Open Browser |
 | SUPER + F  | Open Rofi |
-| SUPER + Q  | Open quit app |
+| SUPER + Q  | Quit app |
+| SUPER + E | Open Files / Nautilus |
+
 
 
 ### Packages-
