@@ -44,6 +44,7 @@ My Hyprland dotfiles to my own OS experience
 | SUPER + F  | Open Rofi |
 | SUPER + Q  | Quit app |
 | SUPER + E | Open Files / Nautilus |
+| SUPER + Shift + S | Open Spotify |
 
 
 
